@@ -1,0 +1,14 @@
+{
+  "name": "whether-weather",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banterability/whether-weather.git"
+  },
+  "author": "Jeff Long <hello@banterability.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/banterability/whether-weather/issues"
+  },
+  "homepage": "https://github.com/banterability/whether-weather#readme"
+}
